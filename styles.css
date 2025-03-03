@@ -1,0 +1,11 @@
+*{
+    background-color:#908e7a;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(208, 200, 87);
+}
+a:link, a:visited{
+    text-decoration: none; 
+    color: #0bbdea;
+}
